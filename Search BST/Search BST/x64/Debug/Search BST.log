@@ -1,0 +1,8 @@
+﻿  BSTree.c
+E:\Search BST\Search BST\BSTree.c(26,32): warning C4047: “函数”:“KeyType”与“KeyType *”的间接级别不同
+E:\Search BST\Search BST\BSTree.c(26,32): warning C4024: “SearchBST”: 形参和实参 2 的类型不同
+E:\Search BST\Search BST\BSTree.c(30,32): warning C4047: “函数”:“KeyType”与“KeyType *”的间接级别不同
+E:\Search BST\Search BST\BSTree.c(30,32): warning C4024: “SearchBST”: 形参和实参 2 的类型不同
+E:\Search BST\Search BST\BSTree.c(41,15): warning C4047: “函数”:“KeyType”与“int *”的间接级别不同
+E:\Search BST\Search BST\BSTree.c(41,15): warning C4024: “SearchBST”: 形参和实参 2 的类型不同
+  Search BST.vcxproj -> E:\Search BST\x64\Debug\Search BST.exe
